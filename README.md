@@ -1,6 +1,4 @@
-# Name: K.Preetha
-# Register Number: 212224100044
-
+# Thanushree M 
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
